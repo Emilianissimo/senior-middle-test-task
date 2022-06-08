@@ -2,4 +2,4 @@
 
 Simple example for Notification sender.
 
-Using adapter pattern to adapt services to send data to available type of service.
+Using strategy pattern to call services that will send data to available type of service, according to recived payload.
